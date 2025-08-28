@@ -18,3 +18,5 @@ staticfiles/
 # OS files
 .DS_Store
 Thumbs.db
+health card django.pptx
+health card report django.docx
